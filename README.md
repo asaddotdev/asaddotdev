@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Rafique</h1>
 <h3 align="center">A Software Engineer with a Computer Science degree (yes, I survived that) and an Entrepreneur at heart</h3>
 
-<br/><br/>
+<br/>
 
 - 🤖 I’m currently trying to keep up with **AI tech that's evolving so fast, I feel like I need version control for my brain.**
 
